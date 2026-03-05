@@ -194,6 +194,6 @@ Push to `main` and Render will automatically build and deploy the latest version
 
 <div align="center">
 
-Made with ❤️ by [karthikj30](https://github.com/karthikj30)
+Made with ❤️ by **Karthik Janardhan** & **Anushka Kotal**
 
 </div>
