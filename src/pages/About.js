@@ -20,7 +20,7 @@ function About() {
         <div className="about-story-inner">
           <div className="about-img">
             <img
-              src="https://images.unsplash.com/photo-1506630448388-4e683c67ddb0?w=800&q=80"
+              src="https://cdn.pixabay.com/photo/2016/11/29/09/29/adult-1868750_640.jpg"
               alt="Our Workshop"
             />
           </div>

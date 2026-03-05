@@ -12,8 +12,9 @@
   content: '';
   position: absolute;
   inset: 0;
-  background: url('https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1600&q=80') center/cover no-repeat;
-  opacity: 0.25;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.3;
 }
 
 .hero-content {

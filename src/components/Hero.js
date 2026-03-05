@@ -1,10 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import heroImg from '../assets/hero.jpg';
 import './Hero.css';
 
 function Hero() {
   return (
-    <section className="hero">
+    <section className="hero" style={{ backgroundImage: `url(${heroImg})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
       <div className="hero-content">
         <span className="hero-badge">✦ New Collection 2026</span>
         <h1 className="hero-title">
